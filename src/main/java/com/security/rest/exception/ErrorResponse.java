@@ -1,4 +1,4 @@
-package com.howtodoinjava.rest.exception;
+package com.security.rest.exception;
 
 import java.util.List;
 
